@@ -1,0 +1,16 @@
+platformName: Android
+#appPackage: com.android.tv.settings
+#appActivity: com.android.tv.settings.MainSettings
+appPackage: com.heytap.tv.support
+appActivity: com.heytap.tv.support.SourceListActivity
+#appPackage: com.heytap.tv.launcher
+#appActivity: com.oneplus.tv.launcher2.HomeLauncher
+noReset: True
+unicodeKeyboard: True
+
+MobileCapabilityType.CLEAR_SYSTEM_FILES: True
+newCommandTimeout: 3600
+automationName: UiAutomator1
+
+# platformVersion: 动态获取
+# deviceName: 动态获取
